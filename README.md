@@ -9,22 +9,25 @@
 * Good listener
 * Cat lover
 
+<br/>
 
+## 👣 My Footprints
 
-##  🤝 Team Projects
+* **Start Programming Study** (2020.12.01 ~ )
+* **Hanghae99** (2021.03.01 ~ )
+
+<br/>
+
+## 📊 Github Stats
 
 <div>
   <div align="left">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=greedysiru&repo=gaemangtalk_frontend" style="width: 45%; height: 100%; display:inline-block" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=greedysiru&repo=hanghae99_books" style="width: 45%; display:inline-block" />
-  </div>
-  <div align="left" style="margin-top: 10px">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=greedysiru&repo=weather_service" style="width: 45%; height: 100%; display:inline-block" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=greedysiru&repo=hanghae99-jumeokbap" style="width: 45%; height: 100%; display:inline-block" />
+	<img src="https://github-readme-stats.vercel.app/api?username=greedysiru&hide_border=true&hide_title=true&count_private=true&show_icons=true" style="width: 50%; height: 100%; display:inline-block" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greedysiru&layout=compact&hide_border=true&hide_title=true" style="width: 43.5%; display:inline-block" />
   </div>
 </div>
 
-
+<br/>
 
 ## 🔧 Tech Stack
 
@@ -51,6 +54,8 @@
   </div>
 </div>  
 
+<br/>
+
 **Things that I've used at least once.**
 
 <div>
@@ -70,26 +75,6 @@
   <div align="left" style="margin-top: 10px">
   </div>
 </div>
-
-
-
-## 👣 My Footprints
-
-* **Start Programming Study** (2020.12.01 ~ )
-* **Hanghae99** (2021.03.01 ~ )
-
-
-
-## 📊 Github Stats
-
-<div>
-  <div align="left">
-	<img src="https://github-readme-stats.vercel.app/api?username=greedysiru&hide_border=true&hide_title=true&count_private=true&show_icons=true" style="width: 50%; height: 100%; display:inline-block" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greedysiru&layout=compact&hide_border=true&hide_title=true" style="width: 43.5%; display:inline-block" />
-  </div>
-</div>
-
-
 
 
 
