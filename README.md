@@ -1,17 +1,25 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greedysiru)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greedysiru&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**greedysiru/greedysiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+<div>
+  <div style="diplay: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%">
+
+	<img src="https://github-readme-stats.vercel.app/api?username=greedysiru&hide_border=true&hide_title=true&count_private=true&show_icons=true&bg_color=#FFFFFF"  style="width: 50%; height: 100%; display:inline-block" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greedysiru&layout=compact&hide_border=true&hide_title=true" style="width: 43.5%; display:inline-block" />
+  </div>
+</div>
+
+
+
+
+
+  
+
+
+
