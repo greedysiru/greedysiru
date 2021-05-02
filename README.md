@@ -18,17 +18,6 @@
 
 <br/>
 
-## 📊 Github Stats
-
-<div>
-  <div align="left">
-	<img src="https://github-readme-stats.vercel.app/api?username=greedysiru&hide_border=true&hide_title=true&count_private=true&show_icons=true" style="width: 50%; height: 100%; display:inline-block" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greedysiru&layout=compact&hide_border=true&hide_title=true" style="width: 43.5%; display:inline-block" />
-  </div>
-</div>
-
-<br/>
-
 ## 🔧 Tech Stack
 
 **Things that I usually use.**
@@ -73,6 +62,17 @@
 <img src="http://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=Bulma&logoColor=white" />
   </div>
   <div align="left" style="margin-top: 10px">
+  </div>
+</div>
+
+<br/>
+
+## 📊 Github Stats
+
+<div>
+  <div align="left">
+	<img src="https://github-readme-stats.vercel.app/api?username=greedysiru&hide_border=true&hide_title=true&count_private=true&show_icons=true" style="width: 50%; height: 100%; display:inline-block" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greedysiru&layout=compact&hide_border=true&hide_title=true" style="width: 43.5%; display:inline-block" />
   </div>
 </div>
 
