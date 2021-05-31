@@ -15,7 +15,7 @@
 
 * **Hanghae99** (2021.03.01 ~ )
 * **Start Programming Study** (2020.12.01 ~ )
-* **Seoul National University of Science and Technology, Fine Chemistry** (2012.3 ~ 2021.2)
+* **Seoul National University of Science and Technology, Bachelor of Science in Fine Chemistry** (2012.3 ~ 2021.2)
 
 <br/>
 
