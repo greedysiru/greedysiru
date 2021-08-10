@@ -6,8 +6,6 @@
 
 * Front-end developer
 * Living in Seoul, Korea
-* Good listener
-* Cat lover
 
 <br/>
 
