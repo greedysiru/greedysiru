@@ -11,6 +11,7 @@
 
 ## 👣 My Footprints
 
+* **Working** (2021.07.26 ~)
 * **Hanghae99** (2021.03.01 ~ 2021.06.07)
 * **Start Programming Study** (2020.12.01 ~ )
 * **Seoul National University of Science and Technology, Bachelor of Science in Fine Chemistry** (2012.3 ~ 2021.2)
