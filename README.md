@@ -15,20 +15,3 @@
 * **Hanghae99** (2021.03.01 ~ 2021.06.07)
 * **Start Programming Study** (2020.12.01 ~ )
 * **Seoul National University of Science and Technology, Bachelor of Science in Fine Chemistry** (2012.3 ~ 2021.2)
-
-<br/>
-
-## 📊 Github Stats
-
-<div>
-  <div align="left">
-	<img src="https://github-readme-stats.vercel.app/api?username=greedysiru&hide_border=true&hide_title=true&count_private=true&show_icons=true" style="width: 50%; height: 100%; display:inline-block" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greedysiru&layout=compact&hide_border=true&hide_title=true" style="width: 43.5%; display:inline-block" />
-  </div>
-</div>
-
-
-
-
-
-
